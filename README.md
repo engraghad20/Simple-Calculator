@@ -11,5 +11,3 @@ Division (/)
 Example: 15 + 10 * 8
 
 3. Graphical User Interface (GUI)
-
-4. Writing annotations within the code for ease of understanding
